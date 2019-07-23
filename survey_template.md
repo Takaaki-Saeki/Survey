@@ -1,7 +1,5 @@
-# Survey template
+# Title
 ###### tags: `survey`
-
-## 0. タイトル
 
 ## 1. 概要
 
